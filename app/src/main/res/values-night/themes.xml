@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.AdminFakha" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!-- This code is for changing the color of the bar. -->
+        <!-- Type your colour code which you want to set in colorPrimary item -->
+        <item name="colorPrimary">#0F9D58</item>
+        <item name="colorPrimaryDark">#18C61F</item>
+        <item name="colorAccent">#000</item>
+    </style>
+</resources>
